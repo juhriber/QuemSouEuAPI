@@ -14,7 +14,6 @@ namespace QuemSouEuAPI.Controllers
 
             eu.Nome = "Juliana";
             eu.Sobrenome = "Ribeiro";
-            url= "https://github.com/juhriber";
             eu.UsuarioGitHub = "juhriber";
 
             return eu;
